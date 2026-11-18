@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Voice Talk",
+  "description": "Interactive visual prototype of a future Android Bluetooth voice calling and walkie-talkie application (simulated demo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
